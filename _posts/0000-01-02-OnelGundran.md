@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Life is so good, and change is better."-Onel Osbert
 Use the left arrow to go back!
